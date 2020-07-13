@@ -2,6 +2,7 @@
 I'm Jonathan Gonzaga, Computer Engineering Student and Electronics Technician
 
 Working with embedded software and firmware
+
 My interests are:
 - Embedded systems
 - RTOS
