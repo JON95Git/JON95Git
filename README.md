@@ -1,5 +1,11 @@
 ### Hi there 👋
+I'm Jonathan Gonzaga, Computer Engineering Student and Electronics Technician
 
+Working with embedded software and firmware
+My interests are:
+- Embedded systems
+- RTOS
+- Linux
 <!--
 **JON95Git/JON95Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
