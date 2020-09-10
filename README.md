@@ -5,8 +5,12 @@ Working with embedded software and firmware
 
 My interests are:
 - Embedded systems
+- Firmware
 - RTOS
 - Linux
+- Hardware
+- Cryptography
+- Control systems
 <!--
 **JON95Git/JON95Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
