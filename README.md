@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Jonathan Gonzaga, Computer Engineering Student and Electronics Technician
+I'm Jonathan Gonzaga, Computer Engineer, Electronics Technician and Embedded Software Developer.
 
-Working with embedded software and firmware
+I work with embedded software and firmware for security systems (cryptographic modules for military radios, USB tokens)
 
 My interests are:
 - Embedded systems
