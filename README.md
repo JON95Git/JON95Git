@@ -1,7 +1,9 @@
 ### Hi there 👋
 I'm Jonathan Gonzaga, Computer Engineer, Electronics Technician and Embedded Software Developer.
 
-I work with embedded software and firmware for security systems (cryptographic modules for military radios, USB tokens)
+I work with embedded software for OLT devices (network and telecom). 
+
+I've worked with firmware for security systems (cryptographic modules for military radios, USB tokens).
 
 My interests are:
 - Embedded systems
