@@ -3,18 +3,18 @@ I'm Jonathan Gonzaga, 🖥️ Computer Engineer, Electronics Technician and Embe
 
 I’m currently working on embedded software for OLT/ONU devices (network and telecom)📡. 
 
-I've worked with firmware for 🔐 security systems (cryptographic modules for military radios, USB tokens).
+I've worked on firmware for 🔐 security systems (cryptographic modules for military radios and USB tokens).
 
-My interests are:
+###  My interests are
 - Embedded systems
 - Firmware
 - RTOS
-- Linux
-- Hardware
-- Cryptography
-- Control systems
+- 🐧 Linux
+- 💽 Hardware
+- 🔐 Cryptography
+- 🤖 Control systems
 
-My GitHub stats:
+### My GitHub stats
 
 <div align="center">
   <a href="https://github.com/JON95Git">
@@ -22,6 +22,8 @@ My GitHub stats:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JON95Git&layout=compact&langs_count=7&theme=react"/>
 </div>
 
+### Technologies
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="jon-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="jon-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
