@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Jonathan Gonzaga, Computer Engineer, Electronics Technician and Embedded Software Developer.
+I'm Jonathan Gonzaga, 🖥️ Computer Engineer, Electronics Technician and Embedded Software Developer.
 
-I work with embedded software for OLT devices (network and telecom). 
+I’m currently working on embedded software for OLT/ONU devices (network and telecom)📡. 
 
-I've worked with firmware for security systems (cryptographic modules for military radios, USB tokens).
+I've worked with firmware for 🔐 security systems (cryptographic modules for military radios, USB tokens).
 
 My interests are:
 - Embedded systems
@@ -13,6 +13,22 @@ My interests are:
 - Hardware
 - Cryptography
 - Control systems
+
+My GitHub stats:
+
+<div align="center">
+  <a href="https://github.com/JON95Git">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JON95Git&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JON95Git&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="jon-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="jon-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="jon-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="jon-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+  
 <!--
 **JON95Git/JON95Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
