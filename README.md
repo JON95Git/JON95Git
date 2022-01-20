@@ -10,6 +10,8 @@ I've worked on firmware for 🔐 security systems (cryptographic modules for mil
 - Firmware
 - RTOS
 - 🐧 Linux
+- Golang
+- Python
 - 💽 Hardware
 - 🔐 Cryptography
 - 🤖 Control systems
