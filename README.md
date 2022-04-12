@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jonathan Gonzaga, 🖥️ Computer Engineer, Electronics Technician and Embedded Software Developer.
 
-I’m currently working on embedded software for OLT/ONU devices (network and telecom)📡. 
+I’m currently working on embedded software for ethernet switches and OLT/ONU devices (network and telecom)📡. 
 
 I've worked on firmware for 🔐 security systems (cryptographic modules for military radios and USB tokens).
 
