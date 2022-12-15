@@ -16,7 +16,7 @@ I've worked on firmware for 🔐 security systems (cryptographic modules for mil
 - 🔐 Cryptography
 - 🤖 Control systems
 
-### My GitHub stats
+<!-- ### My GitHub stats
 
 <div align="center">
   <a href="https://github.com/JON95Git">
@@ -25,13 +25,14 @@ I've worked on firmware for 🔐 security systems (cryptographic modules for mil
 </div>
 
 ### Technologies
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="jon-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="jon-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="jon-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jon-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+</div> -->
+
   
 <!--
 **JON95Git/JON95Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
