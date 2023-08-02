@@ -1,9 +1,10 @@
 ### Hi there 👋
 I'm Jonathan Gonzaga, 🖥️ Computer Engineer, Electronics Technician and Embedded Software Developer.
 
-I’m currently working on embedded software for ethernet switches and OLT/ONU devices (network and telecom)📡. 
+I’m currently working on BLE (Bluetooth Low Energy) devices for health care industry.
 
-I've worked on firmware for 🔐 security systems (cryptographic modules for military radios and USB tokens).
+I've worked on firmware for 🔐 security systems (cryptographic modules for military radios and USB tokens) and also
+on embedded software for ethernet switches and OLT/ONU devices (network and telecom)📡.
 
 ###  My interests are
 - Embedded systems
