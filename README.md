@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jonathan Gonzaga, 🖥️ Computer Engineer, Electronics Technician and Embedded Software Developer.
+I'm Jonathan Gonzaga, 🖥️ Computer Engineer, Electronics Technician and Embedded Software/Firmware Engineer.
 
 I’m currently working on BLE (Bluetooth Low Energy) devices for health care industry.
 
