@@ -11,6 +11,7 @@ on embedded software for ethernet switches and OLT/ONU devices (network and tele
 - Firmware
 - RTOS
 - 🐧 Linux
+- C and C++
 - Golang
 - Python
 - 💽 Hardware
